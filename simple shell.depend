@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1606084810 source:/home/tony/Desktop/simple shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+
